@@ -1,0 +1,2 @@
+# 忽略npm run build构建项目生成的public目录
+public/
